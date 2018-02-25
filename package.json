@@ -1,0 +1,25 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "description": "date of month",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rong8296-practice/moon.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "sadhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rong8296-practice/moon/issues"
+  },
+  "homepage": "https://github.com/rong8296-practice/moon#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
