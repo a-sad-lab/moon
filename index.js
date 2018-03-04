@@ -7,7 +7,7 @@ function getMonth({y, m} = {}) {
   let curY;
   let curM;
   
-  if(y && m) {
+  if(typeof y === 'number' && typeof m === 'number') {
     curY = y;
     curM = m;
   }else {
